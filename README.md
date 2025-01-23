@@ -37,6 +37,7 @@
   <br>
 
 [![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurMalveste&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurMalveste&layout=donut-vertical)]
 
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
