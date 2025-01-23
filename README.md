@@ -26,7 +26,7 @@
 <br>
     <br>
 
-  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=arthurMalveste\&repo=Throw\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=arthurMalveste\&repo=Throw\&theme=tokyonight\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 </div>
 
@@ -36,7 +36,6 @@
 <div style="display: inline_block"><br>
   <br>
 
-[![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurMalveste&theme=tokyonight)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurMalveste&layout=donut-vertical&theme=tokyonight)]()
 
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
